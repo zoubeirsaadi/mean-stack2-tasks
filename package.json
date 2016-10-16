@@ -1,0 +1,25 @@
+{
+  "name": "mean-stack2-tasks",
+  "version": "1.0.0",
+  "description": "simple tasks manager with mean stack 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubeirsaadi/mean-stack2-tasks.git"
+  },
+  "author": "zoubeir saadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoubeirsaadi/mean-stack2-tasks/issues"
+  },
+  "homepage": "https://github.com/zoubeirsaadi/mean-stack2-tasks#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  }
+}
